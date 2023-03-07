@@ -1,0 +1,6 @@
+framework module Pods_Heartzy_HeartzyUITests {
+  umbrella header "Pods-Heartzy-HeartzyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

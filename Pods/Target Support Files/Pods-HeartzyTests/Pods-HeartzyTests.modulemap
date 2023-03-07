@@ -1,0 +1,6 @@
+framework module Pods_HeartzyTests {
+  umbrella header "Pods-HeartzyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
